@@ -14,3 +14,4 @@ For more details, check out the [Heroku-specific deploy documentation](http://ww
 * Upgrading beyond Heroku's free plan
 * Deploying Metabase version updates to Heroku
 * Troubleshooting
+
